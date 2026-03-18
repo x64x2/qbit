@@ -1,6 +1,6 @@
 
 
 
-To build with boost-build, run:
+To build, run:
 
-   b2
+   qbit
